@@ -1,0 +1,91 @@
+========================================================================
+                        ANNUAL FINANCIAL REPORT                         
+                        TechNova Solutions Inc.                         
+                            Fiscal Year 2024                            
+                       Generated: April 13, 2026                        
+                   Powered by Generative AI (Claude)                    
+========================================================================
+
+╔══════════════════════════════════════════════════════════════════════╗
+║                       EXECUTIVE SUMMARY                             ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+[Generating AI-powered executive summary...]
+
+[AI Analysis unavailable: HTTP Error 401: Unauthorized. Financial data has been computed and is displayed below.]
+
+  ┌─────────────────────────────────────────────────────────────────┐
+  │                    INCOME STATEMENT ($M)                        │
+  ├─────────────────────────────────────────────────────────────────┤
+  │  Total Revenue:          $667.6M   YoY Growth:   +14.3%     │
+  │  Cost of Goods Sold:     $310.6M   Gross Margin:   53.5%       │
+  │  Gross Profit:           $357.0M                                │
+  │  Operating Expenses:     $182.5M   EBITDA Margin:  26.1%       │
+  │  R&D Expense:             $83.5M   Op. Margin:    22.4%       │
+  │  EBITDA:                 $174.5M   Net Margin:    16.2%       │
+  │  Net Income:             $108.1M   YoY Growth:    +9.5%     │
+  └─────────────────────────────────────────────────────────────────┘
+
+  QUARTERLY REVENUE TREND ($M)
+  ───────────────────────────────────────────────────────
+  Q1: █████████████████████░░░░░░░░░ $142.5M  GM:52.0%
+  Q2: ████████████████████████░░░░░░ $158.3M  GM:53.2%
+  Q3: ██████████████████████████░░░░ $171.6M  GM:53.5%
+  Q4: ██████████████████████████████ $195.2M  GM:54.8%
+
+
+                ASSETS               │       LIABILITIES & EQUITY       
+  ───────────────────────────────────┼──────────────────────────────────
+  Current Assets:       $468.4M    │ Current Liabilities:     $185.6M
+  Non-Current:          $847.7M    │ Long-Term Liabilities:   $318.9M
+  ────────────────────────────────── │ ─────────────────────────────────
+  Total Assets:       $1,316.1M    │ Total Equity:            $826.6M
+
+  LIQUIDITY RATIOS
+
+  LEVERAGE RATIOS
+
+  PROFITABILITY RATIOS
+
+  PER SHARE & MARKET METRICS
+
+  CASH FLOW METRICS
+
+[Generating AI-powered quarterly analysis...]
+
+[AI Analysis unavailable: HTTP Error 401: Unauthorized. Financial data has been computed and is displayed below.]
+
+  QUARTERLY INCOME STATEMENT ($M)
+  Metric                       Q1       Q2       Q3       Q4   FY Total
+  ────────────────────────────────────────────────────────────────────
+  Revenue                   142.5    158.3    171.6    195.2      667.6
+  COGS                       68.4     74.1     79.8     88.3      310.6
+  R&D Expense                18.3     19.7     21.4     24.1       83.5
+  Oper. Expenses             41.2     43.8     46.1     51.4      182.5
+  Gross Profit               74.1     84.2     91.8    106.9      357.0
+
+[Generating AI-powered risk analysis...]
+
+[AI Analysis unavailable: HTTP Error 401: Unauthorized. Financial data has been computed and is displayed below.]
+
+[Generating AI-powered valuation commentary...]
+
+[AI Analysis unavailable: HTTP Error 401: Unauthorized. Financial data has been computed and is displayed below.]
+
+  Cash from Operating Activities:                 +218.4
+  Cash from Investing Activities:                 -145.2
+      Capital Expenditures:                        -88.6
+  Cash from Financing Activities:                  -62.8
+      Dividends Paid:                              -28.4
+      Share Buybacks:                              -34.4
+  ────────────────────────────────────────────────────────
+  Net Change in Cash:                             -141.0
+
+════════════════════════════════════════════════════════════════════════
+  Report generated: April 13, 2026
+  Data as of: December 31, 2024
+  AI Model: Claude (Anthropic)
+  DISCLAIMER: This report is generated using AI-assisted analysis.
+  It is for informational purposes only and does not constitute
+  financial advice. All figures are in USD millions unless stated.
+════════════════════════════════════════════════════════════════════════
